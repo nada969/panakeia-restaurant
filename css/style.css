@@ -113,7 +113,7 @@ img {
     border-radius: 32px;
     border: none;}
 header .donce .card-donce-content .card-image img:hover , .our-news .cards .card .card-image img:hover ,
-.learn-more .learn-more-content .tea .card-image img:hover{transform: scale(1.1); cursor: pointer;}
+.learn-more .learn-more-content .tea .card-image img:hover{transform: scale(0.9); cursor: pointer;}
  .our-news .cards .card .learn-more-button button:hover ,
 .learn-more .learn-more-content .tea .learn-more-button button:hover {transform: translateY(1vh); cursor: pointer;
     box-shadow: 0px 5px #888888;  }
